@@ -1,10 +1,6 @@
 # 2022_Papilio_HybridIncompatibilityMapping
 
-Code repo for a manuscript on the hybrid incompatibility in butterflies
-
-======================================================
 Description of source data and scripts for all figures
-======================================================
 
 ==== MAIN FIGURES ====
 
