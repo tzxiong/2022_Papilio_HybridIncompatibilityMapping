@@ -157,12 +157,14 @@ Fig. 4
 ==== SUPPLEMENTARY FIGURES ====
 
 Fig. S1-S2
+
      * Source data folder(s): 
         SourceData/Fig2+S1toS2      
      * The "Raw" folder (unzipped) contains unedited confocal data in .czi format.
      * Edited images are included with both monochrome and merged versions.
 
 Fig. S3
+
      * Source data folder(s): 
          SourceData/FigS3
      * Source code:
