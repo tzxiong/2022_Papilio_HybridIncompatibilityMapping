@@ -4,7 +4,7 @@ Description of source data and scripts for all figures
 
 ==== MAIN FIGURES ====
 
-Fig. 1
+**Fig. 1**
 
  - Panel A
      * Schematic figure, no source data are provided
@@ -36,7 +36,7 @@ Fig. 1
      * Source code:
          SourceData/Code.JupyterLab/Code01_SequencingData.ipynb: Section 2
 
-Fig. 2
+**Fig. 2**
 
  - Panels A-G
      * Source data folder(s):        
@@ -50,7 +50,7 @@ Fig. 2
      * The "Raw" folder (unzipped) contains unedited confocal data in .czi format.
      * Edited images are included with both monochrome and merged versions.
 
-Fig. 3
+**Fig. 3**
 
  - Panel A
      * Source data folder(s):
@@ -85,7 +85,7 @@ Fig. 3
      * Source code:
          SourceData/Code.JupyterLab/Code02_Mapping.ipynb: Run all of Sections 4.1 and 4.2
 
-Fig. 4
+**Fig. 4**
 
  - Note 1: For Heliconius analysis, all data are from SourceData/Fig4-Heliconius+S11C/dat.4.qtl.lumped.csv. This file contains Heliconius ovary dysgenesis data from https://doi.org/10.1111/mec.16272
 
@@ -156,14 +156,14 @@ Fig. 4
  
 ==== SUPPLEMENTARY FIGURES ====
 
-Fig. S1-S2
+**Fig. S1-S2**
 
  * Source data folder(s): 
         SourceData/Fig2+S1toS2      
  * The "Raw" folder (unzipped) contains unedited confocal data in .czi format.
  * Edited images are included with both monochrome and merged versions.
 
-Fig. S3
+**Fig. S3**
 
   * Source data folder(s): 
          SourceData/FigS3
@@ -172,7 +172,7 @@ Fig. S3
   * Note: Source data file 04.0_IBD.NgsRelate.zip contains results from the NGSRelate software.
          
 
-Fig. S4
+**Fig. S4**
 
   * Source data folder(s): 
          SourceData/FigS4
@@ -182,7 +182,7 @@ Fig. S4
   * Note 2: Source data file DenovoMarkerOrder_on_CorrectedRefGenome.zip contains all outputs from the LepMap3/OrderMarkers2 module that uses genotype likelihoods and pedigree information to generate a new marker order. Use script "OrderMarkers2_ReOrder.sh" from the script repo.
          
 
-Fig. S5-S7
+**Fig. S5-S7**
 
   * Source data folder(s): 
          SourceData/FigS5toS7
@@ -190,7 +190,7 @@ Fig. S5-S7
          SourceData/Code.JupyterLab/Code01_SequencingData.ipynb: Section 2
   * Note: The source data file PedigreeAncestryInGrandparentalPhase.zip contains all outputs from the LepMap3/OrderMarkers2 module that uses genotype likelihoods and pedigree information to impute ancestry at each marker. Ancestry is phased according to the sex of grandparents. Use script "OrderMarkers2.sh" from the GitHub repo.
 
-Fig. S8
+**Fig. S8**
 
  - Panel A     
      * Source data folder(s): 
@@ -210,7 +210,7 @@ Fig. S8
      * Source code:
          See previous two panels
 
-Fig. S9
+**Fig. S9**
 
  - Panel A
      * Source data folder(s): 
@@ -224,7 +224,7 @@ Fig. S9
      * Source code:
          SourceData/Code.JupyterLab/Code02_Mapping.ipynb: Section 4.2
 
-Fig. S10
+**Fig. S10**
 
  - Panel A
      * Source data folder(s):
@@ -238,7 +238,7 @@ Fig. S10
      * Source code:
          SourceData/Code.JupyterLab/Code02_Mapping.ipynb: Section 4.2
 
-Fig. S11
+**Fig. S11**
 
  - Panel A
      * Source data folder(s): 
@@ -259,14 +259,14 @@ Fig. S11
      * Source code:
          SourceData/Code.JupyterLab/Code02_Mapping.ipynb: Section 6.4
 
-Fig. S12
+**Fig. S12**
 
   * Source data folder(s): 
          No source data are needed
   * Source code:
          SourceData/Code03_PolygenicGhostQTL.ipynb
 
-Fig. S13
+**Fig. S13**
 
  - Panel A
      * Source data folder(s): 
@@ -280,14 +280,14 @@ Fig. S13
      * Source code:
          SourceData/Code.JupyterLab/Code02_Mapping.ipynb: Section 3.2
 
-Fig. S14
+**Fig. S14**
 
   * Source data folder(s): 
          No source data are needed
   * Source code:
          SourceData/Code03_PolygenicGhostQTL.ipynb
 
-Fig. S15
+**Fig. S15**
 
  - Panel A
      * Source data folder(s): 
@@ -301,7 +301,7 @@ Fig. S15
      * Source code:
          SourceData/Code.JupyterLab/Code02_Mapping.ipynb: Section 2.2
 
-Fig. S16
+**Fig. S16**
 
   * Source data folder(s): 
          SourceData/FigS16
@@ -311,7 +311,7 @@ Fig. S16
 
 ==== OTHER SOURCE DATA & SUMMARY OF SOURCE CODE FOLDERS====
 
-LepMap3-SourceData
+**LepMap3-SourceData**
 
   * LepMap3_SourceData-Family_Info_Finalized_withPseudoGrandParents_transposed.txt.zip
          
@@ -322,11 +322,11 @@ LepMap3-SourceData
       The vcf files containing genotype likelihoods for LepMap3 to use. Note that it contains the aforementioned pseudo grandparents.
 
 
-Code.NGSRelate
+**Code.NGSRelate**
 
   * Code used for inferring kinship from low-coverage sequencing data
 
-Code.LepMap3
+**Code.LepMap3**
     
   * Code used for all LepMap3 analysis
 
