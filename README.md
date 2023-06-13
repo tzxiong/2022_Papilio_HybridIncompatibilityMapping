@@ -315,11 +315,11 @@ LepMap3-SourceData
 
   * LepMap3_SourceData-Family_Info_Finalized_withPseudoGrandParents_transposed.txt.zip
          
-         This file is the pedigree file ready-to-use in LepMap3. Note that it contains pseudo grandparents for families missing grandparents in sequencing. Pseudo grandparents are simply created from fixed SNPs in all existing grandparents and adding them to the original vcf files containing genotype likelihoods.
+      This file is the pedigree file ready-to-use in LepMap3. Note that it contains pseudo grandparents for families missing grandparents in sequencing. Pseudo grandparents are simply created from fixed SNPs in all existing grandparents and adding them to the original vcf files containing genotype likelihoods.
 
   * LepMap3_SourceData-vcf_files.zip
          
-         The vcf files containing genotype likelihoods for LepMap3 to use. Note that it contains the aforementioned pseudo grandparents.
+      The vcf files containing genotype likelihoods for LepMap3 to use. Note that it contains the aforementioned pseudo grandparents.
 
 
 Code.NGSRelate
