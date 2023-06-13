@@ -2,7 +2,7 @@
 
 Description of source data and scripts for all figures
 
-==== MAIN FIGURES ====
+**==== MAIN FIGURES ====**
 
 **Fig. 1**
 
@@ -154,7 +154,7 @@ Description of source data and scripts for all figures
  
  
  
-==== SUPPLEMENTARY FIGURES ====
+**==== SUPPLEMENTARY FIGURES ====**
 
 **Fig. S1-S2**
 
@@ -309,7 +309,7 @@ Description of source data and scripts for all figures
          SourceData/Code.JupyterLab/Code01_SequencingData.ipynb: Section 3
          
 
-==== OTHER SOURCE DATA & SUMMARY OF SOURCE CODE FOLDERS====
+**==== OTHER SOURCE DATA & SUMMARY OF SOURCE CODE FOLDERS====**
 
 **LepMap3-SourceData**
 
@@ -330,7 +330,7 @@ Description of source data and scripts for all figures
     
   * Code used for all LepMap3 analysis
 
-Code.JupyterLab
+**Code.JupyterLab**
 
   * Code used for all Julia and R analysis in .ipynb format
 
