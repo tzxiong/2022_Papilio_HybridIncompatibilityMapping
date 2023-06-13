@@ -165,30 +165,30 @@ Fig. S1-S2
 
 Fig. S3
 
-     * Source data folder(s): 
+  * Source data folder(s): 
          SourceData/FigS3
-     * Source code:
+  * Source code:
          SourceData/Code.JupyterLab/Code01_SequencingData.ipynb: Section 1
-     * Note: Source data file 04.0_IBD.NgsRelate.zip contains results from the NGSRelate software.
+  * Note: Source data file 04.0_IBD.NgsRelate.zip contains results from the NGSRelate software.
          
 
 Fig. S4
 
-     * Source data folder(s): 
+  * Source data folder(s): 
          SourceData/FigS4
-     * Source code:
+  * Source code:
          SourceData/Code.JupyterLab/Code01_SequencingData.ipynb: Section 2
-     * Note 1: Source data file CorrectedReferenceGenome.zip is the corrected reference genome used for all analyses. It is in .fasta format.
-     * Note 2: Source data file DenovoMarkerOrder_on_CorrectedRefGenome.zip contains all outputs from the LepMap3/OrderMarkers2 module that uses genotype likelihoods and pedigree information to generate a new marker order. Use script "OrderMarkers2_ReOrder.sh" from the script repo.
+  * Note 1: Source data file CorrectedReferenceGenome.zip is the corrected reference genome used for all analyses. It is in .fasta format.
+  * Note 2: Source data file DenovoMarkerOrder_on_CorrectedRefGenome.zip contains all outputs from the LepMap3/OrderMarkers2 module that uses genotype likelihoods and pedigree information to generate a new marker order. Use script "OrderMarkers2_ReOrder.sh" from the script repo.
          
 
 Fig. S5-S7
 
-     * Source data folder(s): 
+  * Source data folder(s): 
          SourceData/FigS5toS7
-     * Source code:
+  * Source code:
          SourceData/Code.JupyterLab/Code01_SequencingData.ipynb: Section 2
-     * Note: The source data file PedigreeAncestryInGrandparentalPhase.zip contains all outputs from the LepMap3/OrderMarkers2 module that uses genotype likelihoods and pedigree information to impute ancestry at each marker. Ancestry is phased according to the sex of grandparents. Use script "OrderMarkers2.sh" from the GitHub repo.
+  * Note: The source data file PedigreeAncestryInGrandparentalPhase.zip contains all outputs from the LepMap3/OrderMarkers2 module that uses genotype likelihoods and pedigree information to impute ancestry at each marker. Ancestry is phased according to the sex of grandparents. Use script "OrderMarkers2.sh" from the GitHub repo.
 
 Fig. S8
 
@@ -261,9 +261,9 @@ Fig. S11
 
 Fig. S12
 
-     * Source data folder(s): 
+  * Source data folder(s): 
          No source data are needed
-     * Source code:
+  * Source code:
          SourceData/Code03_PolygenicGhostQTL.ipynb
 
 Fig. S13
@@ -282,9 +282,9 @@ Fig. S13
 
 Fig. S14
 
-     * Source data folder(s): 
+  * Source data folder(s): 
          No source data are needed
-     * Source code:
+  * Source code:
          SourceData/Code03_PolygenicGhostQTL.ipynb
 
 Fig. S15
@@ -303,9 +303,9 @@ Fig. S15
 
 Fig. S16
 
-     * Source data folder(s): 
+  * Source data folder(s): 
          SourceData/FigS16
-     * Source code:
+  * Source code:
          SourceData/Code.JupyterLab/Code01_SequencingData.ipynb: Section 3
          
 
@@ -313,26 +313,26 @@ Fig. S16
 
 LepMap3-SourceData
 
-     * LepMap3_SourceData-Family_Info_Finalized_withPseudoGrandParents_transposed.txt.zip
+  * LepMap3_SourceData-Family_Info_Finalized_withPseudoGrandParents_transposed.txt.zip
          
          This file is the pedigree file ready-to-use in LepMap3. Note that it contains pseudo grandparents for families missing grandparents in sequencing. Pseudo grandparents are simply created from fixed SNPs in all existing grandparents and adding them to the original vcf files containing genotype likelihoods.
 
-	 * LepMap3_SourceData-vcf_files.zip
+  * LepMap3_SourceData-vcf_files.zip
          
          The vcf files containing genotype likelihoods for LepMap3 to use. Note that it contains the aforementioned pseudo grandparents.
 
 
 Code.NGSRelate
 
-     * Code used for inferring kinship from low-coverage sequencing data
+  * Code used for inferring kinship from low-coverage sequencing data
 
 Code.LepMap3
     
-     * Code used for all LepMap3 analysis
+  * Code used for all LepMap3 analysis
 
 Code.JupyterLab
 
-     * Code used for all Julia and R analysis in .ipynb format
+  * Code used for all Julia and R analysis in .ipynb format
 
 
 
