@@ -2,7 +2,7 @@
 
 Source data can be retrieved from
 
-[https://doi.org/10.5281/zenodo.7229625]
+https://doi.org/10.5281/zenodo.7229625
 
 Description of source data and scripts for all figures
 
